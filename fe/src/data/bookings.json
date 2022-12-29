@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "username":"Adil",
+        "date":"28-12-2022",
+        "place":"Ramnagar",
+        "services":["car wash","body wash"]
+    },
+    {
+        "id":2,
+        "username":"Adil",
+        "date":"30-12-2022",
+        "place":"Bettiha",
+        "services":["car wash","body wash"]
+    },
+    {
+        "id":3,
+        "username":"Adil",
+        "date":"22-12-2022",
+        "place":"Patna",
+        "services":["car wash","body wash"]
+    },
+    {
+        "id":4,
+        "username":"Adil",
+        "date":"2-01-2022",
+        "place":"Delhi",
+        "services":["car wash","body wash","tyre change"]
+    }
+]
